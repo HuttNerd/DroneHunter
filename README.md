@@ -25,6 +25,8 @@ A fun game written in Pygame Zero. Ducks roam the skies enjoying the freedom of 
 
 ## Running from console:
 - Install Dependencies: `pip install pgzero`
+- The actual game is in the folder `dronehunter` inside this repository
+- Put the folder `dronehunter` somewhere on your computer and go to it 
 - Play the game: `python dronehunter.py`
 
 ## INSTRUCTIONS
